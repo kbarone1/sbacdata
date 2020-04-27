@@ -2,7 +2,7 @@
 
 Each year in California, public school students take SBAC tests in both ELA (english language arts) and math. The scores that students get on these tests are used by parents, teachers, and other school site staff to gauge student progress for the year.
 
-For more on SBAC testing, click here.
+For more on SBAC testing, [click here](https://caaspp-elpac.cde.ca.gov/caaspp/AboutCAASPP).
 
 School performance on SBAC tests is a big deal for the state of California, and in the public Charter School world, philanthropic funders heavily weigh a school's performance on SBACs for whether or not they want to continue or begin funding.
 
